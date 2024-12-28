@@ -1,2 +1,2 @@
-# secret
+# Secret
 Secret App
